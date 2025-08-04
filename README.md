@@ -35,4 +35,4 @@ Users can search Pokémon by name and view details like **Type**, **Height**, **
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/pokemon-search-app.git
+git clone https://github.com/amritkumar8506/pokemon-api-website
